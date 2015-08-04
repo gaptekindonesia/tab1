@@ -1,5 +1,5 @@
 .menu{
-  width: 100%;
+  width: 600PX;
   margin: 100px auto; padding: 15px;	  
   list-style: none;
   counter-reset: li;
