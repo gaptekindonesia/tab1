@@ -68,7 +68,7 @@ ul.sdt_menu li span span.sdt_descr,
 ul.sdt_menu li div.sdt_box a{
 	margin-left:15px;
 	text-transform:uppercase;
-	text-shadow:1px 1px 1px #000;
+	text-shadow:0px 0px 0px #000;
 }
 ul.sdt_menu li span span.sdt_link{
 	color:#fff;
