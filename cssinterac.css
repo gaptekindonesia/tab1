@@ -1,6 +1,6 @@
 .menu{
   width: 700px;
-  margin: 100px auto; padding: 35px;	  
+  margin: 100px auto; padding: 100px;	  
   list-style: none;
   counter-reset: li;
   background: #eee;
