@@ -1,6 +1,6 @@
 .menu{
   width: 700px;
-  margin: 100px auto; padding: 100px;	  
+  margin: 100px auto; padding: 15px;	  
   list-style: none;
   counter-reset: li;
   background: #eee;
@@ -32,7 +32,7 @@
   position: relative;
   float: left;
   cursor: pointer;
-  height: 120px; width: 200px;
+  height: 120px; width: 210px;
   margin: 10px 0 0 10px;
   color: #fff;
 } 
